@@ -1,0 +1,16 @@
+All tests completed successfully.
+  cse220.assign5.RecursionTest
+    testPowDC
+    testPow
+    testLinearSearch
+    testBinarySearch
+    testCountHowMany
+    testReverseArray
+    testReversePrint
+    testLinearSum
+    testBinarySum
+    testPrintDigits
+    testFindPosOfMinimum
+    testSelectionSort
+    testStrLength
+    testReverseString
